@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ServletPathDirection"
+  id="myeclipse.1416702185942"
+  context-root="/ServletPathDirection"
+  j2ee-spec="5.0"
+  archive="ServletPathDirection.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
